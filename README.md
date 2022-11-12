@@ -1,4 +1,4 @@
-# Student-Record
+# Student-Records
 
 Developed Basic Frontend Web App to apply CRUD operations on student records
 
